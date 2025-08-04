@@ -1,0 +1,6 @@
+MedCLIP @ git+https://github.com/RyanWangZf/MedCLIP.git@9c3396f20d5d54e4fae241b8cb06ca45848e98c9
+torch==2.4.1
+torchvision==0.19.1
+pillow==10.4.0
+numpy==1.26.4
+transformers==4.24.0
